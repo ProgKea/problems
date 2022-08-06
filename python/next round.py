@@ -1,0 +1,6 @@
+n, k = input().split(" ")
+n = int(n)
+k = int(k)
+print(n, k)
+
+for _ in range(n):
