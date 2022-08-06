@@ -1,0 +1,1 @@
+This is a collection of my solutions for problems from [Hackerrank](https://www.hackerrank.com/), [codewars](https://www.codewars.com/), [codeforces](https://codeforces.com/), [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems) and more.
